@@ -18,4 +18,4 @@ jobs:
     steps:
       - name: test
         run: |
-          echo "hola 2"
+         echo "hola mundo 2"
