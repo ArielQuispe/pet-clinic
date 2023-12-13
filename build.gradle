@@ -39,8 +39,8 @@ dependencies {
 
 sona {
   properties{
-    property "sonar.projectKey", "akuze18_pet-clinic"
-    property "sonar.organization", "akuze18-devops6"
+    property "sonar.projectKey", "ArielQuispe_pet-clinic"
+    property "sonar.organization", "arielquispeorg"
     property "sonar.host.url", "https://sonarcloud.io/"
     property "sonar.projectName", "pet-clinic"
   }
