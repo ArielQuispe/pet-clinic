@@ -13,7 +13,7 @@ jobs:
        run: |
          echo "hola mundo"
   test: 
-    runs-on: ubuntu-letest
+    runs-on: ubuntu-latest
     needs: build
     steps:
       - name: test
