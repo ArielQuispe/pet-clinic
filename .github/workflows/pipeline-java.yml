@@ -14,6 +14,7 @@ jobs:
          echo "hola mundo"
   test: 
     runs-on: ubuntu-letest
+    needs: build
     steps:
       - name: test
         run: |
